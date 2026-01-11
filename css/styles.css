@@ -382,6 +382,7 @@ img {
 .footer-wrapper {
     display: flex;
     gap: 120px;
+    align-items: baseline;
 }
 
 .footer-link {
